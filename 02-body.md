@@ -1,4 +1,4 @@
-# But ye have an unction from the Holy One, and ye know all things. 1 John 2:20
+## But ye have an unction from the Holy One, and ye know all things. 1 John 2:20
 
 There hath been of old an irreconcilable feud between light and
 darkness, between good and evil, and wheresoever truth hath had its
@@ -240,7 +240,7 @@ of the divine Spirit in this case is according to truth.
 But that notable Scripture which I shall briefly speak unto is in 1
 Corinthians 2:13-14.
 
-# Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual. But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. 1 Corinthians 2:13-14
+## Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual. But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. 1 Corinthians 2:13-14
 
 Here the Apostle speaking of this very subject, telleth us of many
 things: That which is the *substratum*, the main business of his
@@ -394,7 +394,7 @@ man in the use of them doth find an awe upon his conscience, and feel
 himself commanded into a moderate and sober modesty, a modest sobriety
 and moderation.
 
-# The Doctrine Opened
+## The Doctrine Opened
 
 Having thus laid down these four particulars by way of prevention,
 give me leave to explain the sense of the doctrine in these seven
@@ -772,7 +772,7 @@ arguments. The spirit of God doth convey these truths into the soul,
 the new creature doth resent them, and this anointing doth establish
 the soul in a certain assurance of them.
 
-# The Doctrine Applied
+## The Doctrine Applied
 
 Now by way of application, give me leave to speak briefly to some few
 corollaries or deductions which flow naturally from this notion which
